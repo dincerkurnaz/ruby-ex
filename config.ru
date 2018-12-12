@@ -253,7 +253,7 @@ pre {
                 </p>
 
 <ol>
-  <li>From the Web Console Seçkin Yeni homepage, navigate to your project</li>
+  <li>From the Web Console Dincer Yeni homepage, navigate to your project</li>
   <li>Click on Browse &gt; Builds</li>
   <li>From the view for your Build click on the button to copy your GitHub webhook</li>
   <li>Navigate to your repository on GitHub and click on repository settings &gt; webhooks</li>
